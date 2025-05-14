@@ -18,7 +18,7 @@ body {
 /* Background Section (70%) */
 .background-section {
     flex: 7;
-    background-image: url('assets/images/Background.png');
+    background-image: url('assets/imgs/Background.png');
     background-size: cover;
     background-position: center;
     position: relative;
