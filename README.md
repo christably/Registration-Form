@@ -8,42 +8,27 @@ My first registration form using CSS, HTML and JavaScript.
 - 70% of the page contains the background image and the 30% contains the form.
 
 ## Form Specifics
-a. Full name - placeholder
+- Full name - placeholder
+- Username - placeholder
+- Email - placeholder and email format set for users.
+- Date of Birth - display of calender for users to select.
+- Phone number - placeholder
+- Password - format of password set to contain at least 6 characters including letters, numerals and a special character. Placeholder to guide users.
+- An eye emoji that reveals or conceals password when clicked.
+- Repeat Password - Format set to alert users to password must match.
+- A Tick Box for users to tick to indicate agreement with Terms & Conditions.
+- The "Terms & Condition" is in a link format to convey users to the "Terms page" when clicked.
+- A Registration Button and a Login Button displayed horizontally.
+- A hover reaction when the cursor is fixed on any of the buttons
+- Option for "forgot password"
+- Option for users to signup using their Google account or social media acoount.
+- A responsive and stylish page
+- Form, labels and input styled
+- Imprted stylish google fonts
+- Imported Font Awesome for icons.
+- Nice theme
+- Ensured responsiveness on lage devices like labtops and computers as well as small devices like phones. 
 
-b. Username - placeholder
-
-c. Email - placeholder and email format set for users.
-
-d. Date of Birth - display of calender for users to select.
-
-e. Phone number - placeholder
-
-f. Password - format of password set to contain at least 6 characters including letters, numerals and a special character.
-              Placeholder to guide users.
-              The eye emoji that reveals or conceals password when clicked.
-
-g. Repeat Password - Format set to alert users to password must match.
-                     The eye emoji that reveals and conceals password when clicked.
-
-h. A Tick Box for users to tick to indicate agreement with Terms & Conditions. The "Terms & Condition" is in a link format to take users to the Terms page when clicked.
-
-I. A Registration Button and a Login Button displayed side by side, horizontally.
-   A hover reaction when the cursor is fixed on any of the buttons
-
-J. Option for "forgot password"
-
-K. Option for users to signup using their Google account or social media acoount
-
-L. A responsive and stylish page
-
-M. Form, labels and input styled
-
-N. Imprted stylish google fonts 
-
-O. Imported Font Awesome for icons.
-
-P. Nice theme
-
-Q. Ensured responsiveness on lage devices like labtops and computers as well as small devices like phones. 
-
-A work in progress. I will add more updates.
+## A work in progress.
+Expect more updates as I keep working on this. Thank you for reading.
+For the meantime, why don't you follow me. 🤗 
